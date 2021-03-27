@@ -132,7 +132,7 @@ async function main(args) {
     }
     return {
       name: item.name,
-      url: ` https://www.wakfu.com/en/mmorpg/encyclopedia/weapons/${item.id} `
+      url: ` https://www.wakfu.com/fr/mmorpg/encyclopedie/armes/${item.id} `
     };
   }
   
